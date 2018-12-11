@@ -41,6 +41,5 @@ How to use this LIRI Bot:
 Enjoy!!
 
 
->>>>>>> 14594de4cbf9e71d89b59057a83cb47b3f2efdde
 
 
