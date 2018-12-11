@@ -24,19 +24,19 @@ How to use this LIRI Bot:
 
 2a. node liri.js concert-this Using Request Module here
 
-![Bilby Stamede](/screenshots/concert-this.png)
+![concert](/screenshots/concert-this.png)
 
 2b. node liri.js spotify-this-song Using console.table module to populate date in Table Structure 
 
-![Bilby.Stampede](/screenshot/spotify-this-song.png)
+![spotify](/screenshot/spotify-this-song.png)
 
 2c. node liri.js movie-this titanic Using request module 
 
-![Bilby Stampede](/screenshots/movie-this.png)
+![movie](/screenshots/movie-this.png)
 
 2d. node liri.js do-what-it-says Using fs module to read file from random.txt 
 
-![Bilby Stampede](/screenshots/do-what-it-says.png)
+![whatitsays](/screenshots/do-what-it-says.png)
 
 Enjoy!!
 
