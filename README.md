@@ -15,7 +15,7 @@ Node Application using Spotify Api, Bandsintown Api & OMDB API.
   7.moment(library for parsining, validating, manipulating, and formatting dates.)
   
 Screenshot:
-![Bilby Stampede](C:\Users\meenalal\Google Drive\UCR\Git Projects\Node-LIRI-Bot\screenshots.png)
+![Bilby Stampede](screenshots.png)
 
 How to use this LIRI Bot:
 
