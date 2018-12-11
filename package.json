@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rohitchhetri/liri-node-app.git"
+    "url": "git+https://github.com/meenalal/Node-LIRI-Bot.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rohitchhetri/liri-node-app/issues"
+    "url": "https://github.com/meenalal/Node-LIRI-Bot/issues"
   },
-  "homepage": "https://github.com/rohitchhetri/liri-node-app#readme",
+  "homepage": "https://github.com/meenalal/Node-LIRI-Bot_#readme",
   "dependencies": {
     "console.table": "^0.10.0",
     "dotenv": "^6.2.0",
