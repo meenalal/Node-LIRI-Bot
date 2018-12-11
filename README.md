@@ -15,4 +15,4 @@ Node Application using Spotify Api, Bandsintown Api & OMDB API.
   7.moment(library for parsining, validating, manipulating, and formatting dates.)
   
 Screenshot:
-![Bilby Stampede](http://example.com/images/logo.png)
+![Bilby Stampede](https://www.bing.com/th?id=OIP.h5nBtx0xE36kFRq0Ej0wGgHaHa&w=195&h=195&c=7&o=5&dpr=1.5&pid=1.7)
