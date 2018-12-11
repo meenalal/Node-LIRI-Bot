@@ -15,10 +15,7 @@ Node Application using Spotify Api, Bandsintown Api & OMDB API.
   7.moment(library for parsining, validating, manipulating, and formatting dates.)
   
 Screenshot:
-<<<<<<< HEAD
-![Bilby Stampede](http://example.com/images/logo.png)
-=======
-![Bilby Stampede](screenshots.png)
+![Screen](/screenshots/Screenshot.png)
 
 How to use this LIRI Bot:
 
