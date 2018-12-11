@@ -28,7 +28,7 @@ How to use this LIRI Bot:
 
 2b. node liri.js spotify-this-song Using console.table module to populate date in Table Structure 
 
-![spotify](/screenshot/spotify-this-song.png)
+![spotify](/screenshots/spotify-this-song.png)
 
 2c. node liri.js movie-this titanic Using request module 
 
